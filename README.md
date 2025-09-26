@@ -10,7 +10,6 @@ Your contributions are always welcome! Please check out our [contributing guide]
 
 * [Awesome BI](#awesome-bi)
   * [BI Platforms](#bi-platforms)
-  * [Data Visualization](#data-visualization)
   * [Self-Service BI](#self-service-bi)
   * [Enterprise BI](#enterprise-bi)
   * [Open Source BI](#open-source-bi)
@@ -20,9 +19,7 @@ Your contributions are always welcome! Please check out our [contributing guide]
   * [Data Warehouses](#data-warehouses)
   * [OLAP Engines](#olap-engines)
   * [Real-time Analytics](#real-time-analytics)
-  * [Mobile BI](#mobile-bi)
   * [Embedded Analytics](#embedded-analytics)
-  * [Data Governance](#data-governance)
   * [Data Catalogs](#data-catalogs)
   * [Metrics Management](#metrics-management)
   * [Reporting Tools](#reporting-tools)
@@ -30,7 +27,6 @@ Your contributions are always welcome! Please check out our [contributing guide]
   * [Data Science Platforms](#data-science-platforms)
   * [Low-Code/No-Code BI](#low-codeno-code-bi)
   * [Industry-Specific BI](#industry-specific-bi)
-  * [APIs and SDKs](#apis-and-sdks)
   * [Monitoring and Alerting](#monitoring-and-alerting)
   * [Performance Management](#performance-management)
   * [Collaboration Tools](#collaboration-tools)
@@ -51,17 +47,6 @@ Your contributions are always welcome! Please check out our [contributing guide]
 * [Looker](https://looker.com/) - Modern business intelligence platform (now part of Google Cloud)
 * [Apache Superset](https://superset.apache.org/) - Modern data exploration and visualization platform
 * [Metabase](https://www.metabase.com/) - Open source business intelligence tool
-
-## Data Visualization
-
-*Tools focused on data visualization and chart creation.*
-
-* [D3.js](https://d3js.org/) - JavaScript library for data-driven documents
-* [Chart.js](https://www.chartjs.org/) - Simple yet flexible JavaScript charting library
-* [Plotly](https://plotly.com/) - Interactive charts and analytics tools
-* [Observable](https://observablehq.com/) - Data visualization collaboration platform
-* [Grafana](https://grafana.com/) - Monitoring and observability platform
-* [Apache ECharts](https://echarts.apache.org/) - Powerful interactive charting library
 
 ## Self-Service BI
 
@@ -148,14 +133,6 @@ Your contributions are always welcome! Please check out our [contributing guide]
 * [Apache Storm](https://storm.apache.org/) - Distributed real-time computation system
 * [Amazon Kinesis](https://aws.amazon.com/kinesis/) - Real-time data streaming service
 
-## Mobile BI
-
-*Business intelligence solutions for mobile devices.*
-
-* [Tableau Mobile](https://www.tableau.com/products/mobile) - Tableau mobile app
-* [Power BI Mobile](https://powerbi.microsoft.com/en-us/mobile/) - Power BI mobile app
-* [QlikView Mobile](https://www.qlik.com/us/products/qlikview) - QlikView mobile solutions
-
 ## Embedded Analytics
 
 *Analytics tools that can be embedded into applications.*
@@ -164,15 +141,6 @@ Your contributions are always welcome! Please check out our [contributing guide]
 * [Looker](https://looker.com/) - Embedded business intelligence
 * [Chart.io](https://chart.io/) - Cloud charting API
 * [Plotly Dash](https://plotly.com/dash/) - Analytical web applications framework
-
-## Data Governance
-
-*Data quality, security, and compliance tools.*
-
-* [Apache Atlas](https://atlas.apache.org/) - Data governance and metadata framework
-* [Collibra](https://www.collibra.com/) - Data intelligence platform
-* [Alation](https://www.alation.com/) - Data catalog and governance platform
-* [DataHub](https://datahubproject.io/) - Modern data catalog
 
 ## Data Catalogs
 
@@ -243,14 +211,6 @@ Your contributions are always welcome! Please check out our [contributing guide]
 * [Adobe Analytics](https://business.adobe.com/products/analytics/adobe-analytics.html) - Digital marketing analytics
 * [Google Analytics](https://analytics.google.com/) - Web analytics service
 
-## APIs and SDKs
-
-*APIs and SDKs for integrating and extending BI capabilities.*
-
-* [Tableau API](https://help.tableau.com/current/api/rest_api/en-us/REST/rest_api.htm) - Tableau REST API
-* [Power BI API](https://docs.microsoft.com/en-us/rest/api/power-bi/) - Power BI REST API
-* [Looker API](https://docs.looker.com/reference/api-and-integration) - Looker API reference
-* [Chart.js](https://www.chartjs.org/) - JavaScript charting library
 
 ## Monitoring and Alerting
 
@@ -260,14 +220,6 @@ Your contributions are always welcome! Please check out our [contributing guide]
 * [Apache Airflow](https://airflow.apache.org/) - Workflow monitoring
 * [Prometheus](https://prometheus.io/) - Monitoring and alerting toolkit
 * [Grafana](https://grafana.com/) - Monitoring dashboards
-
-## Performance Management
-
-*Tools for optimizing BI system performance.*
-
-* [Apache Spark](https://spark.apache.org/) - Big data processing engine
-* [Redis](https://redis.io/) - In-memory data structure store
-* [Elasticsearch](https://www.elastic.co/) - Search and analytics engine
 
 ## Collaboration Tools
 

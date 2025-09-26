@@ -10,7 +10,6 @@
 
 * [Awesome BI](#awesome-bi)
   * [BI 平台](#bi-平台)
-  * [数据可视化](#数据可视化)
   * [自助式 BI](#自助式-bi)
   * [企业级 BI](#企业级-bi)
   * [开源 BI](#开源-bi)
@@ -20,9 +19,7 @@
   * [数据仓库](#数据仓库)
   * [OLAP 引擎](#olap-引擎)
   * [实时分析](#实时分析)
-  * [移动 BI](#移动-bi)
   * [嵌入式分析](#嵌入式分析)
-  * [数据治理](#数据治理)
   * [数据目录](#数据目录)
   * [指标管理](#指标管理)
   * [报表工具](#报表工具)
@@ -30,7 +27,6 @@
   * [数据科学平台](#数据科学平台)
   * [低代码/无代码 BI](#低代码无代码-bi)
   * [行业特定 BI](#行业特定-bi)
-  * [API 和 SDK](#api-和-sdk)
   * [监控和警报](#监控和警报)
   * [性能管理](#性能管理)
   * [协作工具](#协作工具)
@@ -52,16 +48,6 @@
 * [Apache Superset](https://superset.apache.org/) - 现代数据探索和可视化平台
 * [Metabase](https://www.metabase.com/) - 开源商业智能工具
 
-## 数据可视化
-
-*专注于数据可视化和图表创建的工具。*
-
-* [D3.js](https://d3js.org/) - 用于数据驱动文档的 JavaScript 库
-* [Chart.js](https://www.chartjs.org/) - 简单而灵活的 JavaScript 图表库
-* [Plotly](https://plotly.com/) - 交互式图表和分析工具
-* [Observable](https://observablehq.com/) - 数据可视化协作平台
-* [Grafana](https://grafana.com/) - 监控和可观察性平台
-* [Apache ECharts](https://echarts.apache.org/) - 强大的交互式图表库
 
 ## 自助式 BI
 
@@ -148,13 +134,6 @@
 * [Apache Storm](https://storm.apache.org/) - 分布式实时计算系统
 * [Amazon Kinesis](https://aws.amazon.com/kinesis/) - 实时数据流服务
 
-## 移动 BI
-
-*移动设备上的商业智能解决方案。*
-
-* [Tableau Mobile](https://www.tableau.com/products/mobile) - Tableau 移动应用
-* [Power BI Mobile](https://powerbi.microsoft.com/en-us/mobile/) - Power BI 移动应用
-* [QlikView Mobile](https://www.qlik.com/us/products/qlikview) - QlikView 移动解决方案
 
 ## 嵌入式分析
 
@@ -165,14 +144,6 @@
 * [Chart.io](https://chart.io/) - 云端图表 API
 * [Plotly Dash](https://plotly.com/dash/) - 分析 Web 应用框架
 
-## 数据治理
-
-*数据质量、安全和合规工具。*
-
-* [Apache Atlas](https://atlas.apache.org/) - 数据治理和元数据框架
-* [Collibra](https://www.collibra.com/) - 数据智能平台
-* [Alation](https://www.alation.com/) - 数据目录和治理平台
-* [DataHub](https://datahubproject.io/) - 现代数据目录
 
 ## 数据目录
 
@@ -243,14 +214,6 @@
 * [Adobe Analytics](https://business.adobe.com/products/analytics/adobe-analytics.html) - 数字营销分析
 * [Google Analytics](https://analytics.google.com/) - Web 分析服务
 
-## API 和 SDK
-
-*用于集成和扩展 BI 功能的 API 和 SDK。*
-
-* [Tableau API](https://help.tableau.com/current/api/rest_api/en-us/REST/rest_api.htm) - Tableau REST API
-* [Power BI API](https://docs.microsoft.com/en-us/rest/api/power-bi/) - Power BI REST API
-* [Looker API](https://docs.looker.com/reference/api-and-integration) - Looker API 参考
-* [Chart.js](https://www.chartjs.org/) - JavaScript 图表库
 
 ## 监控和警报
 
@@ -260,14 +223,6 @@
 * [Apache Airflow](https://airflow.apache.org/) - 工作流监控
 * [Prometheus](https://prometheus.io/) - 监控和警报工具包
 * [Grafana](https://grafana.com/) - 监控仪表板
-
-## 性能管理
-
-*优化 BI 系统性能的工具。*
-
-* [Apache Spark](https://spark.apache.org/) - 大数据处理引擎
-* [Redis](https://redis.io/) - 内存数据结构存储
-* [Elasticsearch](https://www.elastic.co/) - 搜索和分析引擎
 
 ## 协作工具
 
